@@ -18,17 +18,17 @@ For example, the temperature map and elevation determine weather, the fault line
 
 ## Examples
 A live editor for redrawing using a variety of layer settings.
-![alt text](https://s3-us-west-2.amazonaws.com/github-ajisaac/pgc_map1.jpg)
-![alt text](https://s3-us-west-2.amazonaws.com/github-ajisaac/pgc_map2.png)
+![alt text](https://s3-us-west-2.amazonaws.com/github-ajisaac/pgc_map/pgc_map1.jpg)
+![alt text](https://s3-us-west-2.amazonaws.com/github-ajisaac/pgc_map/pgc_map2.png)
 A nice way to display weather.
-![alt text](https://s3-us-west-2.amazonaws.com/github-ajisaac/pgc_map3.jpg)
+![alt text](https://s3-us-west-2.amazonaws.com/github-ajisaac/pgc_map/pgc_map3.jpg)
 Sample Elevation map.
-![alt text](https://s3-us-west-2.amazonaws.com/github-ajisaac/pgc_map4.jpg)
-![alt text](https://s3-us-west-2.amazonaws.com/github-ajisaac/pgc_map5.jpg)
+![alt text](https://s3-us-west-2.amazonaws.com/github-ajisaac/pgc_map/pgc_map4.jpg)
+![alt text](https://s3-us-west-2.amazonaws.com/github-ajisaac/pgc_map/pgc_map5.jpg)
 Sometimes the maps are more artistic in nature
-![alt text](https://s3-us-west-2.amazonaws.com/github-ajisaac/pgc_map6.jpg)
-![alt text](https://s3-us-west-2.amazonaws.com/github-ajisaac/pgc_map7.png)
+![alt text](https://s3-us-west-2.amazonaws.com/github-ajisaac/pgc_map/pgc_map6.jpg)
+![alt text](https://s3-us-west-2.amazonaws.com/github-ajisaac/pgc_map/pgc_map7.png)
 Scale can be determined, and layer of detail can be added.
-![alt text](https://s3-us-west-2.amazonaws.com/github-ajisaac/pgc_map8.jpg)
-![alt text](https://s3-us-west-2.amazonaws.com/github-ajisaac/pgc_map9.jpg)
-![alt text](https://s3-us-west-2.amazonaws.com/github-ajisaac/pgc_map10.jpg)
+![alt text](https://s3-us-west-2.amazonaws.com/github-ajisaac/pgc_map/pgc_map8.jpg)
+![alt text](https://s3-us-west-2.amazonaws.com/github-ajisaac/pgc_map/pgc_map9.jpg)
+![alt text](https://s3-us-west-2.amazonaws.com/github-ajisaac/pgc_map/pgc_map10.jpg)
