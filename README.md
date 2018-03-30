@@ -1,1 +1,1 @@
-Want to rewrite all of this and figure out what it all does, how it could be better
+A program to create procedurally generated maps of continents for 2d games. wip.
